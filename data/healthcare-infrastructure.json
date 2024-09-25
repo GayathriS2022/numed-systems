@@ -1,0 +1,17 @@
+[
+    {
+        "component": "Hero",
+        "sort": 1,
+        "componentContent": "/healthcare-infrastructure/hero.json"
+    },
+    {
+        "component": "TwoColumn",
+        "sort": 2,
+        "componentContent": "/healthcare-infrastructure/two-column-v2.json"
+    },
+    {
+        "component": "SocialMedia",
+        "sort": 3,
+        "componentContent": "/healthcare-infrastructure/social-media.json"
+    }
+]

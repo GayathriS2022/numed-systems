@@ -1,0 +1,51 @@
+{
+    "footerTop": {
+        "text": "Most developer friendly & highly customisable Admin Dashboard Template.",
+        "componentContent": [
+            [
+                {
+                    "name": "Title",
+                    "text": "Quick Links"
+                },
+                {
+                    "name": "Link",
+                    "text": "Home",
+                    "link": "../home/"
+                },
+                {
+                    "name": "Link",
+                    "text": "About Us",
+                    "link": "../about-us/"
+                },
+                {
+                    "name": "Link",
+                    "text": "Contact Us",
+                    "link": "../contact-us/"
+                }
+            ],
+            [
+                {
+                    "name": "Title",
+                    "text": "Sitemap"
+                },
+                {
+                    "name": "Link",
+                    "text": "Solution",
+                    "link": "../medical-equipment/"
+                },
+                {
+                    "name": "Link",
+                    "text": "Shop",
+                    "link": "../shop/"
+                }
+            ]
+        ]
+    },
+    "footerBottom": {
+        "company": {
+            "name": "Digisenz",
+            "link": "https://plazeo.io/"
+        },
+        "links": []
+    }
+}

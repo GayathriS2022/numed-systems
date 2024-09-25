@@ -1,0 +1,64 @@
+{
+    "componentName": "SocialMedia",
+    "dataType": "ComponentProps",
+    "variant": "v1",
+    "sx": {},
+    "data": [
+        [
+            {
+                "name": "Title",
+                "text": "Our Work",
+                "variant": "h1",
+                "sx": {
+                    "display": "flex",
+                    "justifyContent": "start"
+                }
+            },
+            {
+                "name": "Media",
+                "src": "/images/shop/gallery1.jpg",
+                "altImg": ""
+            },
+            {
+                "name": "Media",
+                "src": "/images/shop/gallery2.jpg",
+                "altImg": ""
+            },
+            {
+                "name": "Media",
+                "src": "/images/shop/gallery3.jpg",
+                "altImg": ""
+            },
+            {
+                "name": "Media",
+                "src": "/images/shop/gallery7.jpg",
+                "altImg": ""
+            },
+            {
+                "name": "Media",
+                "src": "/images/shop/gallery8.jpg",
+                "altImg": ""
+            },
+            {
+                "name": "Media",
+                "src": "/images/shop/gallery9.jpg",
+                "altImg": ""
+            },
+            {
+                "name": "Media",
+                "src": "/images/shop/gallery4.jpg",
+                "altImg": ""
+            },
+            {
+                "name": "Media",
+                "src": "/images/shop/gallery5.jpg",
+                "altImg": ""
+            },
+            {
+                "name": "Media",
+                "src": "/images/shop/gallery6.jpg",
+                "altImg": ""
+            }
+        ]
+    ]
+}

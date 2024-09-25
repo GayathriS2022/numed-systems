@@ -1,0 +1,96 @@
+    {
+        "componentName": "Hero",
+        "dataType": "ComponentProps",
+        "variant": "v1",
+        "sx": {
+            "margin": "0px",
+            "padding": "0px"
+        },
+        "data": [
+            [
+                {
+                    "name": "Title",
+                    "text": "About Us",
+                    "variant": "h1",
+                    "sx": {
+                        "alignItems": "flex-center",
+                        "justifyContent": "flex-center",
+                        "marginBottom": "0px"
+                    }
+                },
+                {
+                    "name": "Text",
+                    "text": "<p style=\"font-size:1rem;font-weight:200;text-align:left\"> NuMed Systems Private limited an <b>ISO13485-2015</b> organisation. Established in 2015 In the Field of Healthcare as a Solution provider. NuMed Systems Manufactures, Supply and Install <b>Radio Frequency Shielding</b> in India and export to many countries. NuMed Systems undertake <b>Medical equipment Installations</b> and <b>Turnkey projects</b> for Major OEMs and direct customers. NuMed Systems is a vendor-neutral company which strictly follows NDA (Non-disclosure agreement) with its clients to maintain confidentiality of data and technology of each client.NuMed Systems had executed 200+ Imaging equipment Installations,50+ RF Cages,100+ Turnkey Solutions Since its establishment.  </p>",
+                    "sx": {}
+                },
+                {
+                    "name": "Title",
+                    "text": "Vision",
+                    "variant": "h1",
+                    "sx": {
+                        "alignItems": "flex-center",
+                        "justifyContent": "flex-center",
+                        "marginBottom": "0px"
+                    }
+                },
+                {
+                    "name": "Text",
+                    "text": "<p style=\"font-size:1rem;font-weight:200;text-align:left\"> To become a most preferred solution provider for MRI Shielding, Medical Equipment Installation and Healthcare Infrastructure. </p>",
+                    "sx": {}
+                },
+                {
+                    "name": "Title",
+                    "text": "Mission",
+                    "variant": "h1",
+                    "sx": {
+                        "alignItems": "flex-center",
+                        "justifyContent": "flex-center",
+                        "marginBottom": "0px"
+                    }
+                },
+                {
+                    "name": "Text",
+                    "text": "<p style=\"font-size:1rem;font-weight:200;text-align:left\"> ‘NuMed Systems Private Limited’ is committed to provide high quality and innovative products and services that meet the needs of patients and healthcare providers in an ethical, honest, and collaborative manner. </p>",
+                    "sx": {}
+                },
+                {
+                    "name": "Title",
+                    "text": "Our Work",
+                    "variant": "h1",
+                    "sx": {
+                        "alignItems": "flex-center",
+                        "justifyContent": "flex-center",
+                        "marginBottom": "0px"
+                    }
+                },
+                {
+                    "name": "Media",
+                    "src": "/images/about-us/team.jpg",
+                    "altImg": "",
+                    "sx": {
+                        "objectFit": "cover",
+                        "maxWidth": "80%"
+                    }
+                },
+                {
+                    "name": "Title",
+                    "text": "Organization Structure",
+                    "variant": "h1",
+                    "sx": {
+                        "alignItems": "flex-center",
+                        "justifyContent": "flex-center",
+                        "marginBottom": "0px"
+                    }
+                },
+                {
+                    "name": "Media",
+                    "src": "/images/about-us/org-structure.png",
+                    "altImg": "",
+                    "sx": {
+                        "objectFit": "cover",
+                        "maxWidth": "80%"
+                    }
+                }
+            ]
+        ]
+    }

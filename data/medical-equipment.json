@@ -1,0 +1,47 @@
+[
+    {
+        "component": "Hero",
+        "sort": 1,
+        "componentContent": "/medical-equipment/hero.json"
+    },
+    {
+        "component": "TwoColumn",
+        "sort": 2,
+        "componentContent": "/medical-equipment/two-column-v1-1.json"
+    },
+    {
+        "component": "TwoColumn",
+        "sort": 3,
+        "componentContent": "/medical-equipment/two-column-v2-1.json"
+    },
+    {
+        "component": "TwoColumn",
+        "sort": 4,
+        "componentContent": "/medical-equipment/two-column-v1-2.json"
+    },
+    {
+        "component": "TwoColumn",
+        "sort": 5,
+        "componentContent": "/medical-equipment/two-column-v2-2.json"
+    },
+    {
+        "component": "TwoColumn",
+        "sort": 6,
+        "componentContent": "/medical-equipment/two-column-v1-3.json"
+    },
+    {
+        "component": "TwoColumn",
+        "sort": 7,
+        "componentContent": "/medical-equipment/two-column-v2-3.json"
+    },
+    {
+        "component": "TwoColumn",
+        "sort": 8,
+        "componentContent": "/medical-equipment/two-column-v1-4.json"
+    },
+    {
+        "component": "SocialMedia",
+        "sort": 9,
+        "componentContent": "/medical-equipment/social-media.json"
+    }
+]

@@ -1,0 +1,33 @@
+{
+    "componentName": "TwoColumn",
+    "dataType": "ComponentProps",
+    "variant": "v1",
+    "sx": {},
+    "data": [
+        [
+            {
+                "name": "Title",
+                "text": "Equipment Re-Location.",
+                "variant": "h1",
+                "sx": {
+                    "alignItems": "flex-start",
+                    "justifyContent": "flex-start"
+                }
+            },
+            {
+                "name": "Text",
+                "text": "<p style=\"font-size:1rem;font-weight:200;text-align:left\">Equipment re-location needs meticulous planning. Because planning at dismantling location and receiving location has to be synchronised, for example a cold magnet connected with cryogen circuit to be disconnected only just hours before the loading, once it is loaded into the truck it has to reach destination without loosing a single minute, and unloading, movement positioning and connecting back to life support to be done like a war foot situation. Our experienced project Managers will ensure with various stake owners for a trouble-free relocation of equipment.</p>",
+                "sx": {}
+            },
+            {
+                "name": "Media",
+                "src": "/images/medical-equipment/solutions-equipment-relocation-1024x683.jpg",
+                "altImg": "",
+                "sx": {
+                    "objectFit": "cover",
+                    "maxWidth": "80%"
+                }
+            }
+        ]
+    ]
+}

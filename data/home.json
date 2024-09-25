@@ -1,0 +1,37 @@
+[
+    {
+        "component": "Slider",
+        "sort": 1,
+        "componentContent": "/home/slider.json"
+    },
+    {
+        "component": "Hero",
+        "sort": 2,
+        "componentContent": "/home/hero.json"
+    },
+    {
+        "component": "TwoColumn",
+        "sort": 3,
+        "componentContent": "/home/two-column.json"
+    },
+    {
+        "component": "TwoColumn",
+        "sort": 4,
+        "componentContent": "/home/two-column2.json"
+    },
+    {
+        "component": "FiveColumn",
+        "sort": 5,
+        "componentContent": "/home/our-clients.json"
+    },
+    {
+        "component": "ImageGallery",
+        "sort": 6,
+        "componentContent": "/home/image-gallery.json"
+    },
+    {
+        "component": "SocialMedia",
+        "sort": 7,
+        "componentContent": "/home/social-media.json"
+    }
+]

@@ -1,0 +1,133 @@
+{
+    "componentName": "FiveColumn",
+    "dataType": "ComponentProps",
+    "variant": "v1",
+    "sx": {
+        "background-color": "white"
+    },
+    "data": [
+        [
+            {
+                "name": "Title",
+                "text": "Our Services",
+                "variant": "h1",
+                "sx": {
+                    "color": "black"
+                }
+            },
+            {
+                "name": "Text",
+                "text": "Numed Diagnostics has a history of bringing new technologies.",
+                "sx": {
+                    "color": "black"
+                }
+            },
+            {
+                "name": "Card",
+                "variant": "v3",
+                "data": [
+                    [
+                        {
+                            "name": "Media",
+                            "src": "/images/shop/cardiology.png",
+                            "altImg": "Cardiology"
+                        },
+                        {
+                            "name": "Text",
+                            "text": "Cardiology",
+                            "sx": {
+                                "color": "black"
+                            }
+                        },
+                        {
+                            "name": "Button",
+                            "text": "View More",
+                            "link": "",
+                            "openInNewTab": false
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Media",
+                            "src": "/images/shop/ct-scan.png",
+                            "altImg": "Radiology"
+                        },
+                        {
+                            "name": "Text",
+                            "text": "Radiology",
+                            "sx": {
+                                "color": "black"
+                            }
+                        },
+                        {
+                            "name": "Button",
+                            "text": "View More",
+                            "link": "",
+                            "openInNewTab": false
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Media",
+                            "src": "/images/shop/neurology.png",
+                            "altImg": "Neurology"
+                        },
+                        {
+                            "name": "Text",
+                            "text": "Neurology",
+                            "sx": {
+                                "color": "black"
+                            }
+                        },
+                        {
+                            "name": "Button",
+                            "text": "View More",
+                            "link": "",
+                            "openInNewTab": false
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Media",
+                            "src": "/images/shop/microscope.png",
+                            "altImg": "Pathology"
+                        },
+                        {
+                            "name": "Text",
+                            "text": "Pathology",
+                            "sx": {
+                                "color": "black"
+                            }
+                        },
+                        {
+                            "name": "Button",
+                            "text": "View More",
+                            "link": "",
+                            "openInNewTab": false
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Media",
+                            "src": "/images/shop/doctor-appointment.png",
+                            "altImg": "Check-ups"
+                        },
+                        {
+                            "name": "Text",
+                            "text": "Check-ups",
+                            "sx": {
+                                "color": "black"
+                            }
+                        },
+                        {
+                            "name": "Button",
+                            "text": "View More",
+                            "link": "",
+                            "openInNewTab": false
+                        }
+                    ]
+                ]
+            }
+        ]
+    ]
+}

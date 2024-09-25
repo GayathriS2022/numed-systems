@@ -1,0 +1,12 @@
+[
+    {
+        "component": "Hero",
+        "sort": 1,
+        "componentContent": "/contact-us/hero.json"
+    },
+    {
+        "component": "SocialMedia",
+        "sort": 2,
+        "componentContent": "/contact-us/social-media.json"
+    }
+]

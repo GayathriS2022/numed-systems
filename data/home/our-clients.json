@@ -1,0 +1,116 @@
+{
+    "componentName": "FiveColumn",
+    "dataType": "ComponentProps",
+    "variant": "v1",
+    "sx": {
+        "background-color": "white"
+    },
+    "data": [
+        [
+            {
+                "name": "Title",
+                "text": "Our Clients",
+                "variant": "h1",
+                "sx": {
+                    "display": "flex",
+                    "justifyContent": "start",
+                    "color": "primary.main"
+                }
+            },
+            {
+                "name": "Card",
+                "variant": "v3",
+                "data": [
+                    [
+                        {
+                            "name": "Icon",
+                            "src": "https://numedsystems.com/img/brands/1-1024x512.png",
+                            "altImg": "Cardiology",
+                            "sx": {
+                                "width": "100%",
+                                "height": "100%"
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Icon",
+                            "src": "https://numedsystems.com/img/brands/5-logo123-1.png",
+                            "altImg": "Cardiology",
+                            "sx": {
+                                "width": "100%",
+                                "height": "100%"
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Icon",
+                            "src": "https://numedsystems.com/img/brands/2-1024x512.png",
+                            "altImg": "Cardiology",
+                            "sx": {
+                                "width": "100%",
+                                "height": "100%"
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Icon",
+                            "src": "https://numedsystems.com/img/brands/shimadzu-logo_1.png",
+                            "altImg": "Cardiology",
+                            "sx": {
+                                "width": "100%",
+                                "height": "100%"
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Icon",
+                            "src": "https://numedsystems.com/img/brands/3-1024x512.png",
+                            "altImg": "Cardiology",
+                            "sx": {
+                                "width": "100%",
+                                "height": "100%"
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Icon",
+                            "src": "https://numedsystems.com/img/brands/7-logo4777-1024x512.png",
+                            "altImg": "Cardiology",
+                            "sx": {
+                                "width": "100%",
+                                "height": "100%"
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Icon",
+                            "src": "https://numedsystems.com/img/brands/4-logo12.png",
+                            "altImg": "Cardiology",
+                            "sx": {
+                                "width": "100%",
+                                "height": "100%"
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Icon",
+                            "src": "https://numedsystems.com/img/brands/6-logo144.png",
+                            "altImg": "Cardiology",
+                            "sx": {
+                                "width": "100%",
+                                "height": "100%"
+                            }
+                        }
+                    ]
+                ]
+            }
+        ]
+    ]
+}

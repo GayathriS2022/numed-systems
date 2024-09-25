@@ -1,0 +1,87 @@
+[
+    {
+        "component": "Hero",
+        "sort": 1,
+        "componentContent": "/mri-shielding/hero.json"
+    },
+    {
+        "component": "Divider",
+        "sort": 2,
+        "componentContent": {
+            "variant": "v2",
+            "sx": {
+                "height": 10
+            }
+        }
+    },
+    {
+        "component": "TwoColumn",
+        "sort": 3,
+        "componentContent": "/mri-shielding/two-column-v1-1.json"
+    },
+    {
+        "component": "Divider",
+        "sort": 4,
+        "componentContent": {
+            "variant": "v2",
+            "sx": {
+                "height": 10
+            }
+        }
+    },
+    {
+        "component": "TwoColumn",
+        "sort": 5,
+        "componentContent": "/mri-shielding/two-column-v2-1.json"
+    },
+    {
+        "component": "Divider",
+        "sort": 6,
+        "componentContent": {
+            "variant": "v2",
+            "sx": {
+                "height": 10
+            }
+        }
+    },
+    {
+        "component": "TwoColumn",
+        "sort": 7,
+        "componentContent": "/mri-shielding/two-column-v1-2.json"
+    },
+    {
+        "component": "Divider",
+        "sort": 8,
+        "componentContent": {
+            "variant": "v2",
+            "sx": {
+                "height": 10
+            }
+        }
+    },
+    {
+        "component": "TwoColumn",
+        "sort": 9,
+        "componentContent": "/mri-shielding/two-column-v2-2.json"
+    },
+    {
+        "component": "Divider",
+        "sort": 10,
+        "componentContent": {
+            "variant": "v2",
+            "sx": {
+                "height": 10
+            }
+        }
+    },
+    {
+        "component": "TwoColumn",
+        "sort": 11,
+        "componentContent": "/mri-shielding/two-column-v1-3.json"
+    },
+    {
+        "component": "SocialMedia",
+        "sort": 16,
+        "componentContent": "/mri-shielding/social-media.json"
+    }
+]
