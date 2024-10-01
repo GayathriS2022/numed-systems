@@ -1,36 +1,17 @@
 [
     {
-    "componentName": "Hero",
-    "dataType": "ComponentProps",
-    "variant": "v1",
-    "sx": {
-        "margin": "0px",
-        "padding": "0px"
+        "component": "ThreeColumn",
+        "sort": 2,
+        "componentContent": "/shop/three-column.json"
     },
-    "data": [
-        [
-            {
-                "name": "Text",
-                "text": "CANCELLATION",
-                "variant": "h1",
-                "sx": {
-                    "alignItems": "flex-center",
-                    "justifyContent": "flex-center",
-                    "color":"black",
-                    "fontWeight":"bold",
-                    "alignText":"center",
-                    "fontSize":"30px"
-                }
-            },
-            {
-                "name": "Text",
-                "text": "<p>plaze.io reserves the right to cancel any order, due to various reasons, wherein plazeo.io is not able to meet the requirement of the order placed or order so placed / unavailability of stock of the product ordered, or if the order does not comply with the plazeo.io policy or for any other reason. However, plazeo.io will ensure that any communication of cancellation of an order, so cancelled, is intimated within appropriate time to the concerned person and any applicable refund will be made in reasonable time.</p>",
-                "sx": {
-                    "alignText":"justify",
-                    "paddingBottom":"10px"
-                }
-            }
-        ]
-    ]
-}
+    {
+        "component": "ImageGallery",
+        "sort": 3,
+        "componentContent": "/shop/image-gallery.json"
+    },
+    {
+        "component": "SocialMedia",
+        "sort": 4,
+        "componentContent": "/shop/social-media.json"
+    }
 ]
