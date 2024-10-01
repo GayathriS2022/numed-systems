@@ -27,7 +27,7 @@
     },
     {
         "title": "Shop",
-        "path": "shop",
+        "path": "/shop",
         "align": "right"
     },
     {
