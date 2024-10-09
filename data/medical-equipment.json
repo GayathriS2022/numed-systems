@@ -1,0 +1,92 @@
+[
+  {
+    "pageMetaData": {
+  "title": "Medical Equipment | Numed Systems",
+  "meta": {
+    "name": [
+      {
+        "name": "description",
+        "content": "Numed Systems offers advanced medical equipment solutions tailored to healthcare providers. Discover our range of equipment designed to enhance patient care and facility efficiency."
+      },
+      {
+        "name": "keywords",
+        "content": "Numed Systems, medical equipment, healthcare technology, medical solutions, healthcare innovation"
+      }
+    ],
+    "property": [
+      {
+        "property": "og:title",
+        "content": "Medical Equipment | Numed Systems"
+      },
+      {
+        "property": "og:description",
+        "content": "Explore Numed Systems' state-of-the-art medical equipment, designed to meet the highest standards of healthcare innovation."
+      },
+      {
+        "property": "og:image",
+        "content": "https://www.numedsystems.com/images/logo.jpg"
+      },
+      {
+        "property": "og:url",
+        "content": "https://www.numedsystems.com/medical-equipment"
+      },
+      {
+        "property": "og:type",
+        "content": "website"
+      }
+    ]
+  }
+}
+
+  },
+    {
+        "component": "Hero",
+        "sort": 1,
+        "componentContent": "/medical-equipment/hero.json"
+    },
+    {
+        "component": "TwoColumn",
+        "sort": 2,
+        "componentContent": "/medical-equipment/two-column-v1-1.json"
+    },
+    {
+        "component": "TwoColumn",
+        "sort": 3,
+        "componentContent": "/medical-equipment/two-column-v2-1.json"
+    },
+    {
+        "component": "TwoColumn",
+        "sort": 4,
+        "componentContent": "/medical-equipment/two-column-v1-2.json"
+    },
+    {
+        "component": "TwoColumn",
+        "sort": 5,
+        "componentContent": "/medical-equipment/two-column-v2-2.json"
+    },
+    {
+        "component": "TwoColumn",
+        "sort": 6,
+        "componentContent": "/medical-equipment/two-column-v1-3.json"
+    },
+    {
+        "component": "TwoColumn",
+        "sort": 7,
+        "componentContent": "/medical-equipment/two-column-v2-3.json"
+    },
+    {
+        "component": "TwoColumn",
+        "sort": 8,
+        "componentContent": "/medical-equipment/two-column-v1-4.json"
+    },
+    {
+        "component": "Divider",
+        "sort": 9,
+        "componentContent": {
+            "variant": "v1",
+            "sx": {
+                "height": 10
+            }
+        }
+    }
+]

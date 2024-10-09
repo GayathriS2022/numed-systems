@@ -1,0 +1,33 @@
+{
+    "componentName": "TwoColumn",
+    "dataType": "ComponentProps",
+    "variant": "v1",
+    "sx": {},
+    "data": [
+        [
+            {
+                "name": "Title",
+                "text": "Equipment Re-Location",
+                "variant": "h1",
+                "sx": {
+                    "alignItems": "flex-start",
+                    "justifyContent": "flex-start"
+                }
+            },
+            {
+                "name": "Text",
+                "text": "<p style=\"font-size:1rem;font-weight:200;text-align:left\">Radio Frequency Shielding NuShield® is used to block Radio frequency waves for noise and artefact free Imaging in MRI Scanner, Good and long-lasting RF Cage is most essential part of a MRI Scanner, Our RF Cages made of Copper and Galvanised Iron assures more thank 100db attenuation and installed according to OEM specifications. The NuShield® RF Doors designed and manufactured in our factory carries lifetime warranty and ensures trouble free operations.</p>",
+                "sx": {}
+            },
+            {
+                "name": "Media",
+                "src": "/images/mri-shielding/solutions-equipment-relocation.jpg",
+                "altImg": "",
+                "sx": {
+                    "objectFit": "cover",
+                    "maxWidth": "80%"
+                }
+            }
+        ]
+    ]
+}

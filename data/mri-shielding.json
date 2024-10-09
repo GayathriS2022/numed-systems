@@ -1,0 +1,131 @@
+[
+    {
+      "pageMetaData": {
+      "title": "MRI Shielding | Numed Systems",
+      "meta": {
+        "name": [
+          {
+            "name": "description",
+            "content": "Numed Systems specializes in advanced MRI shielding solutions to ensure optimal performance and safety of your MRI equipment. Learn more about our industry-leading shielding technology."
+          },
+          {
+            "name": "keywords",
+            "content": "Numed Systems, MRI shielding, medical equipment shielding, MRI safety, healthcare technology"
+          }
+        ],
+        "property": [
+          {
+            "property": "og:title",
+            "content": "MRI Shielding | Numed Systems"
+          },
+          {
+            "property": "og:description",
+            "content": "Explore Numed Systems' advanced MRI shielding solutions, designed for maximum protection and efficiency in MRI environments."
+          },
+          {
+            "property": "og:image",
+            "content": "https://www.numedsystems.com/images/mri-shielding.jpg"
+          },
+          {
+            "property": "og:url",
+            "content": "https://www.numedsystems.com/mri-shielding"
+          },
+          {
+            "property": "og:type",
+            "content": "website"
+          }
+        ]
+      }
+    }
+    },
+    {
+        "component": "Hero",
+        "sort": 1,
+        "componentContent": "/mri-shielding/hero.json"
+    },
+    {
+        "component": "Divider",
+        "sort": 2,
+        "componentContent": {
+            "variant": "v2",
+            "sx": {
+                "height": 10
+            }
+        }
+    },
+    {
+        "component": "TwoColumn",
+        "sort": 3,
+        "componentContent": "/mri-shielding/two-column-v1-1.json"
+    },
+    {
+        "component": "Divider",
+        "sort": 4,
+        "componentContent": {
+            "variant": "v2",
+            "sx": {
+                "height": 10
+            }
+        }
+    },
+    {
+        "component": "TwoColumn",
+        "sort": 5,
+        "componentContent": "/mri-shielding/two-column-v2-1.json"
+    },
+    {
+        "component": "Divider",
+        "sort": 6,
+        "componentContent": {
+            "variant": "v2",
+            "sx": {
+                "height": 10
+            }
+        }
+    },
+    {
+        "component": "TwoColumn",
+        "sort": 7,
+        "componentContent": "/mri-shielding/two-column-v1-2.json"
+    },
+    {
+        "component": "Divider",
+        "sort": 8,
+        "componentContent": {
+            "variant": "v2",
+            "sx": {
+                "height": 10
+            }
+        }
+    },
+    {
+        "component": "TwoColumn",
+        "sort": 9,
+        "componentContent": "/mri-shielding/two-column-v2-2.json"
+    },
+    {
+        "component": "Divider",
+        "sort": 10,
+        "componentContent": {
+            "variant": "v2",
+            "sx": {
+                "height": 10
+            }
+        }
+    },
+    {
+        "component": "TwoColumn",
+        "sort": 11,
+        "componentContent": "/mri-shielding/two-column-v1-3.json"
+    },
+    {
+        "component": "Divider",
+        "sort": 12,
+        "componentContent": {
+            "variant": "v1",
+            "sx": {
+                "height": 10
+            }
+        }
+    }
+]

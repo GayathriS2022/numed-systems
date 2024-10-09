@@ -1,0 +1,35 @@
+{
+    "componentName": "SocialMedia",
+    "dataType": "ComponentProps",
+    "variant": "v1",
+    "sx": {},
+    "data": [
+        [
+            {
+                "name": "Title",
+                "text": "Social Media",
+                "variant": "h1"
+            },
+            {
+                "name": "Icon",
+                "src": "/images/social-media/facebook.svg",
+                "altImg": ""
+            },
+            {
+                "name": "Icon",
+                "src": "/images/social-media/twitter.svg",
+                "altImg": ""
+            },
+            {
+                "name": "Icon",
+                "src": "/images/social-media/youtube.svg",
+                "altImg": ""
+            },
+            {
+                "name": "Icon",
+                "src": "/images/social-media/instagram.svg",
+                "altImg": ""
+            }
+        ]
+    ]
+}

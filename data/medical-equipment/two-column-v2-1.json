@@ -1,0 +1,33 @@
+{
+    "componentName": "TwoColumn",
+    "dataType": "ComponentProps",
+    "variant": "v2",
+    "sx": {},
+    "data": [
+        [
+            {
+                "name": "Title",
+                "text": "Site Planning",
+                "variant": "h1",
+                "sx": {
+                    "alignItems": "flex-start",
+                    "justifyContent": "flex-start"
+                }
+            },
+            {
+                "name": "Text",
+                "text": "<p style=\"font-size:1rem;font-weight:200;text-align:left\">In a hospital medical equipment are as important as doctors and nurses which helps diagnostics and treatment. So, the planning of the site should be considering facts like workflow, Patient and User Safety, easy access to patients, future upgradation, de-Installation of equipment, power requirements, Airconditioning requirements etc. for example a CT scanner and X -Ray and a minor OT Should be planned near to Emergency Department. Similarly, USG should be ideally planned near a OPD area with an attached toilet and MRI should be planned near an outer wall were no ferromagnet object movement. While designing any hospital structure if  equipment preinstallation requirements are not considered it will turn into disaster during medical equipment installation. Our Expert project managers will support customers to Plan their infrastructure according to pre-installation requirement of various medical equipment.</p>",
+                "sx": {}
+            },
+            {
+                "name": "Media",
+                "src": "/images/medical-equipment/solutions-site-plannin-1024x683.jpg",
+                "altImg": "",
+                "sx": {
+                    "objectFit": "contain",
+                    "maxHeight": "300px"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "componentName": "TwoColumn",
+    "dataType": "ComponentProps",
+    "variant": "v2",
+    "sx": {},
+    "data": [
+        [
+            {
+                "name": "Title",
+                "text": "Planning an infrastructure",
+                "variant": "h1",
+                "sx": {
+                    "alignItems": "flex-start",
+                    "justifyContent": "flex-start"
+                }
+            },
+            {
+                "name": "Text",
+                "text": "<p style=\"font-size:1rem;font-weight:200;text-align:left\">Planning a hospital infrastructure is very cumbersome due to its special design requirement such as High ceiling height for equipment, transportation of Heavy equipment to the building, Clean Air solutions for OTs, Adequate strength requirement for ceiling mount equipment, Special bunkers for Radiotherapy and nuclear medicine equipment etc. Civil engineers and architects struggles to plan Healthcare Insfrastructure due to lack of domain expertise. Our expertise helped many hospitals to plan their Radiology departments, OTs, ICUs in better way. We undertake brownfield and green field turnkey jobs. Starting from Site feasibility, Site planning, Site readiness and execution our team of expert are capable of handling Civil, Electrical and HVAC Requirement for a Hospital Infrastructure.</p>",
+                "sx": {}
+            },
+            {
+                "name": "Media",
+                "src": "/images/healthcare-infrastructure/solutions-health-infra.jpg",
+                "altImg": "",
+                "sx": {
+                    "objectFit": "contain",
+                    "maxHeight": "300px"
+                }
+            }
+        ]
+    ]
+}

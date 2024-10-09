@@ -1,0 +1,24 @@
+{
+    "componentName": "Slider",
+    "dataType": "ComponentProps",
+    "variant": "v2",
+    "sx": {},
+    "data": [
+        [
+            {
+                "name": "Title",
+                "text": "About Us",
+                "variant": "h1",
+                "sx": {}
+            },
+            {
+                "name": "Media",
+                "src": "/images/about-us/hero1.jpg",
+                "altImg": "slider images",
+                "sx": {
+                    "objectFit": "cover"
+                }
+            }
+        ]
+    ]
+}

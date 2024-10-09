@@ -1,0 +1,82 @@
+[
+  {
+      "pageMetaData": {
+      "title": "Home | Numed Systems",
+      "meta": {
+        "name": [
+          {
+            "name": "description",
+            "content": "Welcome to Numed Systems, a leader in healthcare technology and medical solutions. Explore our innovative products and services aimed at enhancing healthcare systems worldwide."
+          },
+          {
+            "name": "keywords",
+            "content": "Numed Systems, healthcare solutions, medical technology, healthcare innovation, healthcare infrastructure"
+          }
+        ],
+        "property": [
+          {
+            "property": "og:title",
+            "content": "Home | Numed Systems"
+          },
+          {
+            "property": "og:description",
+            "content": "Discover Numed Systems' cutting-edge healthcare solutions, from medical technology to complete infrastructure services."
+          },
+          {
+            "property": "og:image",
+            "content": "https://www.numedsystems.com/images/logo.jpg"
+          },
+          {
+            "property": "og:url",
+            "content": "https://www.numedsystems.com"
+          },
+          {
+            "property": "og:type",
+            "content": "website"
+          }
+        ]
+      }
+    }
+
+  },
+    {
+        "component": "Slider",
+        "sort": 1,
+        "componentContent": "/home/slider.json"
+    },
+    {
+        "component": "Hero",
+        "sort": 2,
+        "componentContent": "/home/hero.json"
+    },
+    {
+        "component": "TwoColumn",
+        "sort": 3,
+        "componentContent": "/home/two-column.json"
+    },
+    {
+        "component": "TwoColumn",
+        "sort": 4,
+        "componentContent": "/home/two-column2.json"
+    },
+    {
+        "component": "FiveColumn",
+        "sort": 5,
+        "componentContent": "/home/our-clients.json"
+    },
+    {
+        "component": "ImageGallery",
+        "sort": 6,
+        "componentContent": "/home/image-gallery.json"
+    },
+    {
+        "component": "Divider",
+        "sort": 7,
+        "componentContent": {
+            "variant": "v1",
+            "sx": {
+                "height": 10
+            }
+        }
+    }
+]
