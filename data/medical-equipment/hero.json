@@ -1,0 +1,23 @@
+    {
+        "componentName": "Hero",
+        "dataType": "ComponentProps",
+        "variant": "v1",
+        "sx": {
+            "margin": "0px",
+            "padding": "0px"
+        },
+        "data": [
+            [
+                {
+                    "name": "Title",
+                    "text": "Medical Equipment Installation Solutions",
+                    "variant": "h1",
+                    "sx": {
+                        "alignItems": "flex-start",
+                        "justifyContent": "flex-start",
+                        "marginBottom": "0px"
+                    }
+                }
+            ]
+        ]
+    }

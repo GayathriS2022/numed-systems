@@ -1,0 +1,61 @@
+[
+    {
+      "pageMetaData": {
+          "title": "About Us | Numed Systems",
+          "meta": {
+              "name": [
+                  {
+                      "name": "description",
+                      "content": "Learn more about Numed Systems, a leader in healthcare solutions. Discover our mission, values, and expert team driving innovation in medical technology."
+                  },
+                  {
+                      "name": "keywords",
+                      "content": "Numed Systems, healthcare technology, medical innovation, about us, healthcare solutions"
+                  }
+              ],
+              "property": [
+                  {
+                      "property": "og:title",
+                      "content": "About Us | Numed Systems"
+                  },
+                  {
+                      "property": "og:description",
+                      "content": "At Numed Systems, we revolutionize healthcare with cutting-edge technologies and expert medical solutions. Learn about our mission and our innovative team."
+                  },
+                  {
+                      "property": "og:image",
+                      "content": "https://www.numedsystems.com/images/logo.png"
+                  },
+                  {
+                      "property": "og:url",
+                      "content": "https://www.numedsystems.com/about-us"
+                  },
+                  {
+                      "property": "og:type",
+                      "content": "website"
+                  }
+              ]
+          }
+      }
+    },
+    {
+        "component": "Slider",
+        "sort": 1,
+        "componentContent": "/about-us/slider.json"
+    },
+    {
+        "component": "Hero",
+        "sort": 2,
+        "componentContent": "/about-us/hero.json"
+    },
+    {
+        "component": "Divider",
+        "sort": 9,
+        "componentContent": {
+            "variant": "v1",
+            "sx": {
+                "height": 10
+            }
+        }
+    }
+]

@@ -1,0 +1,74 @@
+{
+    "componentName": "ThreeColumn",
+    "dataType": "ComponentProps",
+    "variant": "v1",
+    "sx": {},
+    "data": [
+        [
+            {
+                "name": "Title",
+                "text": "Fall in love with BIG savings - get up to 6% interest p.a.",
+                "variant": "h1"
+            },
+            {
+                "name": "Text",
+                "text": "Not just a set of tools, our deposit ThreeColumn offer customizable plans tailored to your financial objectives.",
+                "sx": {}
+            },
+            {
+                "name": "Card",
+                "sx": {
+                    "alignItems": "flex-start",
+                    "justifyContent": "flex-start"
+                },
+                "data": [
+                    [
+                        {
+                            "name": "Title",
+                            "text": "Blood test at your comfort"
+                        },
+                        {
+                            "name": "Text",
+                            "text": "Numed Diagnostics having a Big for phlebotomists, technicians, quality supervisors, administrative and supervisors who are highly motivated and dedicated.",
+                            "sx": {}
+                        },
+                        {
+                            "name": "Button",
+                            "text": "Our Location",
+                            "link": "",
+                            "openLinkInNewTab": false
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Title",
+                            "text": "24x7 Customer Support"
+                        },
+                        {
+                            "name": "Text",
+                            "text": "<p class=\"h5\">Our doctors are available everyday a week, make an appointment.</p><p class=\"h5\">support@numeddiagnostics.com</p>",
+                            "sx": {}
+                        },
+                        {
+                            "name": "Button",
+                            "text": "eEmail Us",
+                            "link": "",
+                            "openLinkInNewTab": false
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Title",
+                            "text": "Our Center Operation Hours"
+                        },
+                        {
+                            "name": "Text",
+                            "text": "Visit us at our lab.</br>Mon-Sat  09: 00 AM-09: 00 PM</br>Sunday 09: 00 AM-05: 00 PM </br></br><img src=\"/assets/numed/icons/telephone-48.png\" height=\"18\"/> <b>011-45567020       +91-7827415429</b>",
+                            "sx": {}
+                        }
+                    ]
+                ]
+            }
+        ]
+    ]
+}
