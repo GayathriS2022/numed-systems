@@ -1,7 +1,7 @@
 {
-    "templateName": "Testing",
-    "logo": "/images/numed_logo.png",
-    "primaryMain": "#4b4bff",
+    "templateName": "",
+    "logo": "/images/logo.png",
+    "primaryMain": "#af2228",
     "primaryLight": "#af2228",
     "primaryDark": "#af2228",
     "primaryText": "#0b6ba5",
