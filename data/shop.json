@@ -47,7 +47,7 @@
     {
         "component": "ImageGallery",
         "sort": 3,
-        "componentContent": "/shop/image-gallery.json"
+         "componentContent": "/home/image-gallery.json"
     },
     {
         "component": "Divider",
