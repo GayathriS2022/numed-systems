@@ -71,7 +71,7 @@
     },
     {
         "component": "Divider",
-        "sort": 9,
+        "sort": 7,
         "componentContent": {
             "variant": "v1",
             "sx": {
