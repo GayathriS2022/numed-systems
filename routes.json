@@ -1,0 +1,9 @@
+[
+  { "params": { "slug": "home" } },
+  { "params": { "slug": "shop", "id": "123" } },
+  { "params": { "slug": "about-us" } },
+  { "params": { "slug": "contact-us" } },
+  { "params": { "slug": "medical-equipment" } },
+  { "params": { "slug": "healthcare-infrastructure" } },
+  { "params": { "slug": "mri-shielding" } }
+]
