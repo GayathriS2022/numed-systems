@@ -21,13 +21,13 @@
             {
                 "icon": "tabler:chart-pie-2",
                 "title": "MRI Shielding",
-                "path": "/mri-shielding"
+                "path": "/shop/mri-shielding"
             }
         ]
     },
     {
         "title": "Shop",
-        "path": "shop",
+        "path": "/shop",
         "align": "right"
     },
     {
